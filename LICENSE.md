@@ -1,9 +1,7 @@
 This document is licensed under the GNU General Public License,
-version 2.0 or later.
+version 2.0 or later, or the GNU Free Documentation License, v1.1 or later.
 
-Translated from the original:
-
-[An Anarchist FAQ](http://anarchism.pageabode.com/afaq/intro.html):
+Translated from the original "[An Anarchist FAQ](http://anarchism.pageabode.com/afaq/intro.html)", which is:
 
 Copyright (C) 1995-2019 The Anarchist FAQ Editorial Collective:
 Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
