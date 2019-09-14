@@ -1,4 +1,4 @@
-This is a translation of [the Anarchist FAQ](http://anarchism.pageabode.com/afaq/)
+This is a translation of [the Anarchist FAQ](http://anarchism.pageabode.com/afaq/index.html)
 into simple English. Suggestions and help are welcome.
 You can [view the source and make changes](https://github.com/marnanel/simple-afaq)
 on Github.
