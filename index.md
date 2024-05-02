@@ -17,6 +17,7 @@ on Github.
   - Why do anarchists think everyone should be equal?
   - Why do anarchists think people should co-operate?
   - Why do anarchists say we must free ourselves?
+  - Is it possible to be an anarchist without opposing hierarchy?
 
 Copyright and licence
 ---------------------
